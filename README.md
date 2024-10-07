@@ -1,8 +1,12 @@
 # auto_mkdir
-Just an automatization for creating folders.
+Just an automatization for creating folders :)
 
-For more comfort:
+To use it:
 
-mv folder.sh /usr/bin/folder.sh
+<b> chmod +x folder.sh </b>
 
-alias folder=source /usr/bin/folder.sh
+<i> For more comfort: </i>
+
+<b> mv folder.sh /usr/bin/folder.sh
+
+alias folder="source /usr/bin/folder.sh" </b>
