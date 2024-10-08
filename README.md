@@ -1,13 +1,11 @@
 # auto_mkdir
 Just a very simple automatization for creating folders :)
 
-To use it:
+# To use it:
 
-<b> chmod +x folder.sh </b>
+chmod +x folder.sh
 
-# <i> For more comfort: </i>
-
- mv folder.sh /usr/bin/folder.sh
+mv folder.sh /usr/bin/folder.sh
 
 <b> Append the following to your ~/.bashrc file: </b>
 
