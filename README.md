@@ -1,5 +1,5 @@
 # auto_mkdir
-Just an automatization for creating folders :)
+Just a very simple automatization for creating folders :)
 
 To use it:
 
