@@ -5,7 +5,7 @@ Just a very simple automatization for creating folders :)
 
 chmod +x folder.sh
 
-mv folder.sh /usr/bin/folder.sh
+mv folder.sh /usr/bin/
 
 <b> Append the following to your ~/.bashrc file: </b>
 
